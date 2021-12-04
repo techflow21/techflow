@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(77, 112, 143);
+}
+
+img {
+  width: 150;
+  height: 150;
+  align-items: center;
+}
